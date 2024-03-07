@@ -1,3 +1,4 @@
 NewLine
 newline3
 newline0
+newline2
