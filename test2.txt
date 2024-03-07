@@ -4,3 +4,4 @@ newline2
 newline3
 newline4
 newline5
+newline6
